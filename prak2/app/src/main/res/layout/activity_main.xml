@@ -15,12 +15,12 @@
         android:layout_margin="0dp"
         android:paddingTop="15dp"
         android:paddingBottom="12dp"
-        android:text="Twitter"
+        android:text="Black Pink"
         android:textColor="@android:color/white"
         android:textSize="16sp"
         android:textStyle="bold"
         android:gravity="center_horizontal"
-        android:background="#00acee"
+        android:background="#ffc5d3"
         app:cornerRadius="12dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -57,13 +57,13 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/palestina"/>
+                    android:src="@drawable/blackpink"/>
             </androidx.cardview.widget.CardView>
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Free Palestine"
+                android:text="Konser Blackpink"
                 android:textColor="#333333"
                 android:textSize="24sp"
                 android:textStyle="bold"
@@ -72,7 +72,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Palestina adalah wilayah bersejarah di Timur Tengah, sebuah tanah yang kaya akan makna religius bagi tiga agama Abrahamik—Islam, Kristen, dan Yahudi. Wilayah ini telah menjadi pusat konflik geopolitik yang berlarut-larut, terutama antara rakyat Palestina dan Israel, yang berakar dari isu-isu historis, perbatasan, dan klaim atas tanah. Meskipun perjuangan kemerdekaan terus berlanjut, semangat dan identitas budaya Palestina tetap kuat, tercermin dalam seni, musik, dan ketahanan masyarakatnya. Kondisi politik yang kompleks dan kemanusiaan yang sulit di Jalur Gaza dan Tepi Barat terus menjadi perhatian dunia internasional."
+                android:text="BLACKPINK adalah grup vokal wanita asal Korea Selatan yang dibentuk oleh YG Entertainment, terdiri dari empat anggota: Jisoo, Jennie, Rosé, dan Lisa. Sejak debutnya pada tahun 2016, mereka telah menjadi salah satu grup K-pop paling berpengaruh dan sukses secara global, dikenal dengan lagu-lagu hits seperti Ddu-Du Ddu-Du, How You Like That, dan Pink Venom. Keempat anggotanya tidak hanya menonjol dalam musik, tetapi juga sebagai ikon mode dan duta merek-merek mewah, yang memperkuat pengaruh mereka di seluruh dunia. BLACKPINK juga memecahkan berbagai rekor di tangga lagu global dan menjadi grup wanita Korea pertama yang tampil di festival musik besar seperti Coachella, menegaskan status mereka sebagai fenomena budaya pop."
                 android:textColor="@color/black"
                 android:textSize="12sp"
                 android:lineSpacingExtra="4dp"
@@ -81,7 +81,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="86 like"
+                android:text="143 terjual"
                 android:textColor="#333333"
                 android:textSize="13sp"
                 android:textStyle="bold"
@@ -98,8 +98,8 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Like"
-                    android:backgroundTint="@color/blue"
+                    android:text="Beli"
+                    android:backgroundTint="@color/pink"
                     android:layout_marginEnd="8dp" />
 
                 <Button
@@ -107,8 +107,8 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Retweet"
-                    android:backgroundTint="@color/blue"
+                    android:text="Simpan"
+                    android:backgroundTint="@color/pink"
                     />
 
             </LinearLayout>
@@ -124,13 +124,13 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/bahlil" />
+                    android:src="@drawable/blackpink"/>
             </androidx.cardview.widget.CardView>
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Bahlil Tolol"
+                android:text="Konser Blackpink"
                 android:textColor="#333333"
                 android:textSize="24sp"
                 android:textStyle="bold"
@@ -139,7 +139,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Menteri Bahlil Lahadalia menepis keraguan terhadap penggunaan etanol sebagai campuran BBM, merujuk pada keberhasilan negara-negara maju seperti Brasil dan Amerika Serikat. Menurutnya, program E10 (campuran etanol 10%) bertujuan mengurangi impor BBM, menciptakan lapangan kerja, dan mendorong ekonomi lokal dengan memanfaatkan sumber daya alam seperti singkong dan tebu. Ia juga menegaskan bahwa rencana ini sesuai dengan visi Presiden Prabowo untuk membangun industri etanol di Merauke, Papua Selatan, yang ditargetkan beroperasi pada 2027."
+                android:text="BLACKPINK adalah grup vokal wanita asal Korea Selatan yang dibentuk oleh YG Entertainment, terdiri dari empat anggota: Jisoo, Jennie, Rosé, dan Lisa. Sejak debutnya pada tahun 2016, mereka telah menjadi salah satu grup K-pop paling berpengaruh dan sukses secara global, dikenal dengan lagu-lagu hits seperti Ddu-Du Ddu-Du, How You Like That, dan Pink Venom. Keempat anggotanya tidak hanya menonjol dalam musik, tetapi juga sebagai ikon mode dan duta merek-merek mewah, yang memperkuat pengaruh mereka di seluruh dunia. BLACKPINK juga memecahkan berbagai rekor di tangga lagu global dan menjadi grup wanita Korea pertama yang tampil di festival musik besar seperti Coachella, menegaskan status mereka sebagai fenomena budaya pop."
                 android:textColor="@color/black"
                 android:textSize="12sp"
                 android:lineSpacingExtra="4dp"
@@ -148,7 +148,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="160 like"
+                android:text="143 terjual"
                 android:textColor="#333333"
                 android:textSize="13sp"
                 android:textStyle="bold"
@@ -165,16 +165,18 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Like"
-                    android:layout_marginEnd="8dp"
-                    android:backgroundTint="@color/blue"/>
+                    android:text="Beli"
+                    android:backgroundTint="@color/pink"
+                    android:layout_marginEnd="8dp" />
+
                 <Button
                     android:id="@+id/button5"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:backgroundTint="@color/blue"
-                    android:text="Retweet" />
+                    android:text="Simpan"
+                    android:backgroundTint="@color/pink"
+                    />
 
             </LinearLayout>
 
@@ -189,13 +191,13 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/sekolah"/>
+                    android:src="@drawable/blackpink"/>
             </androidx.cardview.widget.CardView>
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Murid Tolol"
+                android:text="Konser Blackpink"
                 android:textColor="#333333"
                 android:textSize="24sp"
                 android:textStyle="bold"
@@ -204,7 +206,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Insiden di SMAN 1 Cimarga, Lebak, Banten, menjadi sorotan publik setelah seorang kepala sekolah bernama Dini Fitri menampar siswanya, Indra, yang kedapatan merokok di lingkungan sekolah. Tindakan ini berujung pada laporan polisi dari orang tua siswa dan keputusan Gubernur Banten untuk menonaktifkan Dini dari jabatannya. Namun, polemik ini akhirnya mereda setelah kedua belah pihak dipertemukan dan saling memaafkan, yang berujung pada pencabutan status nonaktif kepala sekolah. Meskipun siswa tersebut juga diberi sanksi berupa teguran, kasus ini memicu perdebatan luas tentang batasan tindakan guru dalam menegakkan disiplin dan pentingnya pendekatan tanpa kekerasan."
+                android:text="BLACKPINK adalah grup vokal wanita asal Korea Selatan yang dibentuk oleh YG Entertainment, terdiri dari empat anggota: Jisoo, Jennie, Rosé, dan Lisa. Sejak debutnya pada tahun 2016, mereka telah menjadi salah satu grup K-pop paling berpengaruh dan sukses secara global, dikenal dengan lagu-lagu hits seperti Ddu-Du Ddu-Du, How You Like That, dan Pink Venom. Keempat anggotanya tidak hanya menonjol dalam musik, tetapi juga sebagai ikon mode dan duta merek-merek mewah, yang memperkuat pengaruh mereka di seluruh dunia. BLACKPINK juga memecahkan berbagai rekor di tangga lagu global dan menjadi grup wanita Korea pertama yang tampil di festival musik besar seperti Coachella, menegaskan status mereka sebagai fenomena budaya pop."
                 android:textColor="@color/black"
                 android:textSize="12sp"
                 android:lineSpacingExtra="4dp"
@@ -213,11 +215,10 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="41 like"
+                android:text="143 terjual"
                 android:textColor="#333333"
                 android:textSize="13sp"
                 android:textStyle="bold"
-                android:backgroundTint="@color/blue"
                 android:layout_marginBottom="12dp" />
 
             <LinearLayout
@@ -231,8 +232,8 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Like"
-                    android:backgroundTint="@color/blue"
+                    android:text="Beli"
+                    android:backgroundTint="@color/pink"
                     android:layout_marginEnd="8dp" />
 
                 <Button
@@ -240,8 +241,9 @@
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:backgroundTint="@color/blue"
-                    android:text="Retweet" />
+                    android:text="Simpan"
+                    android:backgroundTint="@color/pink"
+                    />
 
             </LinearLayout>
 
@@ -253,7 +255,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
-        android:backgroundTint="@color/blue"
+        android:backgroundTint="@color/pink"
         android:paddingTop="12dp"
         android:paddingBottom="12dp"
         android:text="EXPLORE"
