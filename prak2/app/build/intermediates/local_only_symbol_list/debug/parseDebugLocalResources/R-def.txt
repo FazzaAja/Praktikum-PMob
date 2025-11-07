@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color pink
+color white
+drawable blackpink
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button2
+id button3
+id button4
+id button5
+id button6
+id button7
+id button_watch_video
+id main
+id scrollView_content
+id textView_app_bar
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Prak2
+style Theme.Prak2
+xml backup_rules
+xml data_extraction_rules

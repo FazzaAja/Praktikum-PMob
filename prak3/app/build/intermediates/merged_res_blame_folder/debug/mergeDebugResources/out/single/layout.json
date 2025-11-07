@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.13\\com.example.prak3.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.13\\com.example.prak3.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.13\\com.example.prak3.app-mergeDebugResources-30:\\layout\\activity_result.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.13\\com.example.prak3.app-main-33:\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "com.example.prak3.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.prak3.app-main-33:/layout/activity_main.xml"
+    }
+]

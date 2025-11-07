@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color blue
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable kolomteks
+id age
+id btnSubmit
+id confirmpass
+id email
+id fullnama
+id heading
+id headingresult
+id password
+id rdb1
+id rdb2
+id txtAge
+id txtEmail
+id txtFullName
+id txtGender
+id txtUsername
+id username
+layout activity_main
+layout activity_result
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Prak3
+style Theme.Prak3
+xml backup_rules
+xml data_extraction_rules

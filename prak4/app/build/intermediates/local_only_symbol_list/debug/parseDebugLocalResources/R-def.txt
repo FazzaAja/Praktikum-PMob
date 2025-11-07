@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+array status_pernikahan
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnResetData
+id btnSimpanData
+id etDesa
+id etKabupaten
+id etKecamatan
+id etNIK
+id etNamaLengkap
+id etRT
+id etRW
+id rbLakiLaki
+id rbPerempuan
+id rgJenisKelamin
+id spinnerStatusPernikahan
+id tvDaftarWarga
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+style Base.Theme.Post4_264
+style Theme.Post4_264
+xml backup_rules
+xml data_extraction_rules

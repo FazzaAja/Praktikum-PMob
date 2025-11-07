@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.lanangfajri.post4_264.app-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "com.lanangfajri.post4_264.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\itosh\\.gradle\\daemon\\8.13\\com.lanangfajri.post4_264.app-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\itosh\\.gradle\\daemon\\8.13\\com.lanangfajri.post4_264.app-main-6:\\layout\\activity_main.xml"
+    }
+]

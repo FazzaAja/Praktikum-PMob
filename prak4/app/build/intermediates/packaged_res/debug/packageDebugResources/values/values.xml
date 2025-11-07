@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="status_pernikahan">
+        <item>Belum Menikah</item>
+        <item>Menikah</item>
+        <item>Cerai</item>
+        <item>Duda/Janda</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <style name="Base.Theme.Post4_264" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Post4_264" parent="Base.Theme.Post4_264"/>
+</resources>
